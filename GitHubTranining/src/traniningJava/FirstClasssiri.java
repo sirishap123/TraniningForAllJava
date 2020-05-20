@@ -1,9 +1,13 @@
 package traniningJava;
 
-public class FirstClasssiri {
+public class FirstClasssiri 
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+{
+
+	public static void main(String[] args) 
+	
+	{
+		System.out.println("i am Learning Git");
 
 	}
 
